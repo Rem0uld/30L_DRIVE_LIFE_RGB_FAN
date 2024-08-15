@@ -32,6 +32,7 @@
 #include "UvcDrive.h"
 #include "RgbLedDrive.h"
 #include "SysAdcValue.h"
+#include "time.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -41,12 +42,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-enum Colors {
-  RED = 1,
-  GREEN,
-  BLUE,
-  ALL
-};
+
 
 /* USER CODE END PD */
 
@@ -130,7 +126,7 @@ int main(void)
     HAL_Delay(1000);
     SystemInfo();
     SmartFan();
-    ShowLedColor(RED,1);
+    ShowLedColor(RED,ON);
 
     /* USER CODE END WHILE */
 

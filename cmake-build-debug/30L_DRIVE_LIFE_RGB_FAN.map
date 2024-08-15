@@ -3021,69 +3021,69 @@ LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libc
 LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libm.a
 LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libgcc.a
 
-.debug_info     0x00000000    0x19041
- .debug_info    0x00000000      0x2f7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
- .debug_info    0x000002f7      0xb80 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
- .debug_info    0x00000e77      0x695 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj
- .debug_info    0x0000150c      0x9de CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj
- .debug_info    0x00001eea      0x9e7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj
- .debug_info    0x000028d1      0x2fb CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj
- .debug_info    0x00002bcc      0x30e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj
- .debug_info    0x00002eda      0x8f5 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
- .debug_info    0x000037cf      0xd2b CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj
- .debug_info    0x000044fa      0x3a3 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x0000489d      0x39b CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_info    0x00004c38      0x783 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj
- .debug_info    0x000053bb      0x171 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj
- .debug_info    0x0000552c      0x22d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_info    0x00005759      0xf01 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj
- .debug_info    0x0000665a      0x922 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj
- .debug_info    0x00006f7c       0x30 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
- .debug_info    0x00006fac      0x7a2 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_info    0x0000774e      0xed9 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_info    0x00008627      0xc3a CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_info    0x00009261      0xcad CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_info    0x00009f0e      0x7da CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_info    0x0000a6e8      0x604 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_info    0x0000acec     0x38b7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_info    0x0000e5a3      0x66f CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
- .debug_info    0x0000ec12      0x9c7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_info    0x0000f5d9      0x420 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_info    0x0000f9f9     0x3b74 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_info    0x0001356d     0x1a88 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_info    0x00014ff5     0x404c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+.debug_info     0x00000000    0x1906d
+ .debug_info    0x00000000      0x30d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
+ .debug_info    0x0000030d      0xb80 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
+ .debug_info    0x00000e8d      0x695 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj
+ .debug_info    0x00001522      0x9de CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj
+ .debug_info    0x00001f00      0x9e7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj
+ .debug_info    0x000028e7      0x2fb CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj
+ .debug_info    0x00002be2      0x30e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj
+ .debug_info    0x00002ef0      0x8f5 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
+ .debug_info    0x000037e5      0xd41 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj
+ .debug_info    0x00004526      0x3a3 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x000048c9      0x39b CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_info    0x00004c64      0x783 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj
+ .debug_info    0x000053e7      0x171 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj
+ .debug_info    0x00005558      0x22d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_info    0x00005785      0xf01 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj
+ .debug_info    0x00006686      0x922 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj
+ .debug_info    0x00006fa8       0x30 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_info    0x00006fd8      0x7a2 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x0000777a      0xed9 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_info    0x00008653      0xc3a CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_info    0x0000928d      0xcad CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00009f3a      0x7da CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x0000a714      0x604 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x0000ad18     0x38b7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_info    0x0000e5cf      0x66f CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x0000ec3e      0x9c7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000f605      0x420 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000fa25     0x3b74 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x00013599     0x1a88 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x00015021     0x404c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_abbrev   0x00000000     0x3be2
- .debug_abbrev  0x00000000      0x12f CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
- .debug_abbrev  0x0000012f      0x255 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
- .debug_abbrev  0x00000384      0x1e5 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj
- .debug_abbrev  0x00000569      0x1dd CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj
- .debug_abbrev  0x00000746      0x207 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj
- .debug_abbrev  0x0000094d      0x119 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj
- .debug_abbrev  0x00000a66      0x151 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj
- .debug_abbrev  0x00000bb7      0x221 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
- .debug_abbrev  0x00000dd8      0x292 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj
- .debug_abbrev  0x0000106a      0x144 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x000011ae      0x178 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x00001326      0x1c1 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj
- .debug_abbrev  0x000014e7       0xea CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj
- .debug_abbrev  0x000015d1      0x143 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x00001714      0x287 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj
- .debug_abbrev  0x0000199b      0x25c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj
- .debug_abbrev  0x00001bf7       0x24 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
- .debug_abbrev  0x00001c1b      0x22d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_abbrev  0x00001e48      0x252 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_abbrev  0x0000209a      0x287 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_abbrev  0x00002321      0x36d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_abbrev  0x0000268e      0x244 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_abbrev  0x000028d2      0x1f7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_abbrev  0x00002ac9      0x2be CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_abbrev  0x00002d87      0x1e9 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
- .debug_abbrev  0x00002f70      0x2a0 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_abbrev  0x00003210      0x1d8 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_abbrev  0x000033e8      0x270 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_abbrev  0x00003658      0x26e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_abbrev  0x000038c6      0x31c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+.debug_abbrev   0x00000000     0x3bea
+ .debug_abbrev  0x00000000      0x133 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
+ .debug_abbrev  0x00000133      0x255 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
+ .debug_abbrev  0x00000388      0x1e5 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj
+ .debug_abbrev  0x0000056d      0x1dd CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj
+ .debug_abbrev  0x0000074a      0x207 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj
+ .debug_abbrev  0x00000951      0x119 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj
+ .debug_abbrev  0x00000a6a      0x151 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj
+ .debug_abbrev  0x00000bbb      0x221 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
+ .debug_abbrev  0x00000ddc      0x296 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj
+ .debug_abbrev  0x00001072      0x144 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x000011b6      0x178 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x0000132e      0x1c1 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj
+ .debug_abbrev  0x000014ef       0xea CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj
+ .debug_abbrev  0x000015d9      0x143 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x0000171c      0x287 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj
+ .debug_abbrev  0x000019a3      0x25c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj
+ .debug_abbrev  0x00001bff       0x24 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_abbrev  0x00001c23      0x22d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00001e50      0x252 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_abbrev  0x000020a2      0x287 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_abbrev  0x00002329      0x36d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x00002696      0x244 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x000028da      0x1f7 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00002ad1      0x2be CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_abbrev  0x00002d8f      0x1e9 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x00002f78      0x2a0 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x00003218      0x1d8 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x000033f0      0x270 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x00003660      0x26e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x000038ce      0x31c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
 .debug_loclists
                 0x00000000     0xc33f
@@ -3261,37 +3261,37 @@ LOAD c:/sysgcc/arm-eabi/bin/../lib/gcc/arm-none-eabi/12.3.1/thumb/v7-m/nofp\libg
  .debug_rnglists
                 0x00000cbe      0x1a1 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
-.debug_line     0x00000000    0x185b8
- .debug_line    0x00000000      0x23c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
- .debug_line    0x0000023c      0x40a CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
- .debug_line    0x00000646      0x2d4 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj
- .debug_line    0x0000091a      0x31a CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj
- .debug_line    0x00000c34      0x4b3 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj
- .debug_line    0x000010e7      0x1fa CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj
- .debug_line    0x000012e1      0x22e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj
- .debug_line    0x0000150f      0x37d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
- .debug_line    0x0000188c      0x538 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj
- .debug_line    0x00001dc4      0x214 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x00001fd8      0x361 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj
- .debug_line    0x00002339      0x3e1 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj
- .debug_line    0x0000271a      0x19f CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj
- .debug_line    0x000028b9      0x264 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj
- .debug_line    0x00002b1d      0x62b CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj
- .debug_line    0x00003148      0x3b4 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj
- .debug_line    0x000034fc       0x78 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
- .debug_line    0x00003574      0x5c6 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
- .debug_line    0x00003b3a      0xf2e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
- .debug_line    0x00004a68      0xbfd CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
- .debug_line    0x00005665      0x72c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
- .debug_line    0x00005d91      0xab5 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
- .debug_line    0x00006846      0x606 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .debug_line    0x00006e4c     0x56ca CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
- .debug_line    0x0000c516      0x4f8 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
- .debug_line    0x0000ca0e      0xc71 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
- .debug_line    0x0000d67f      0x4e6 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
- .debug_line    0x0000db65     0x4962 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .debug_line    0x000124c7     0x1cad CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
- .debug_line    0x00014174     0x4444 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+.debug_line     0x00000000    0x185c9
+ .debug_line    0x00000000      0x24d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
+ .debug_line    0x0000024d      0x40a CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
+ .debug_line    0x00000657      0x2d4 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj
+ .debug_line    0x0000092b      0x31a CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj
+ .debug_line    0x00000c45      0x4b3 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj
+ .debug_line    0x000010f8      0x1fa CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj
+ .debug_line    0x000012f2      0x22e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj
+ .debug_line    0x00001520      0x37d CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
+ .debug_line    0x0000189d      0x538 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj
+ .debug_line    0x00001dd5      0x214 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x00001fe9      0x361 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000234a      0x3e1 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj
+ .debug_line    0x0000272b      0x19f CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj
+ .debug_line    0x000028ca      0x264 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00002b2e      0x62b CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj
+ .debug_line    0x00003159      0x3b4 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj
+ .debug_line    0x0000350d       0x78 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj
+ .debug_line    0x00003585      0x5c6 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x00003b4b      0xf2e CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj
+ .debug_line    0x00004a79      0xbfd CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj
+ .debug_line    0x00005676      0x72c CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x00005da2      0xab5 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x00006857      0x606 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00006e5d     0x56ca CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+ .debug_line    0x0000c527      0x4f8 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x0000ca1f      0xc71 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x0000d690      0x4e6 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000db76     0x4962 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x000124d8     0x1cad CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x00014185     0x4444 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 
 .debug_str      0x00000000     0x57a0
  .debug_str     0x00000000      0x239 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
