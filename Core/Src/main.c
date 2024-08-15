@@ -20,13 +20,18 @@
 #include "main.h"
 #include "adc.h"
 #include "dma.h"
+#include "i2c.h"
 #include "tim.h"
 #include "usart.h"
 #include "gpio.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "SmartFan.h"
+#include "EEPROM.h"
+#include "UvcDrive.h"
+#include "RgbLedDrive.h"
+#include "SysAdcValue.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -36,6 +41,12 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
+enum Colors {
+  RED = 1,
+  GREEN,
+  BLUE,
+  ALL
+};
 
 /* USER CODE END PD */
 
@@ -96,16 +107,31 @@ int main(void)
   MX_TIM2_Init();
   MX_TIM3_Init();
   MX_USART1_UART_Init();
+  MX_I2C1_Init();
   /* USER CODE BEGIN 2 */
+  HAL_TIM_Base_Start(&htim2);
+  HAL_TIM_IC_Start_IT(&htim3,TIM_CHANNEL_1);//开启TIM3 PWM捕获
+
   HAL_ADCEx_Calibration_Start(&hadc1);//ADC自动校准
   HAL_Delay(200);//延时200ms
-
+  printf("XJY Drive Test Version.\r\n");
+  printf("Creat By Jacky Ver:T1.0\r\n");
+  //AT24CWrite();
+  UvcHighDrive();
   /* USER CODE END 2 */
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    // ShowLedColor(RED,1);
+    // SmartFan();
+    // UvcHighDrive();
+    HAL_Delay(1000);
+    SystemInfo();
+    SmartFan();
+    ShowLedColor(RED,1);
+
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */

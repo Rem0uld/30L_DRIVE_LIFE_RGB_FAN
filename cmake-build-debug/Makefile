@@ -128,53 +128,53 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/build
 .PHONY : 30L_DRIVE_LIFE_RGB_FAN.elf/fast
 
-APP/FanDrive.obj: APP/FanDrive.c.obj
-.PHONY : APP/FanDrive.obj
+APP/EEPROM.obj: APP/EEPROM.c.obj
+.PHONY : APP/EEPROM.obj
 
 # target to build an object file
-APP/FanDrive.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj
-.PHONY : APP/FanDrive.c.obj
+APP/EEPROM.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj
+.PHONY : APP/EEPROM.c.obj
 
-APP/FanDrive.i: APP/FanDrive.c.i
-.PHONY : APP/FanDrive.i
+APP/EEPROM.i: APP/EEPROM.c.i
+.PHONY : APP/EEPROM.i
 
 # target to preprocess a source file
-APP/FanDrive.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.i
-.PHONY : APP/FanDrive.c.i
+APP/EEPROM.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.i
+.PHONY : APP/EEPROM.c.i
 
-APP/FanDrive.s: APP/FanDrive.c.s
-.PHONY : APP/FanDrive.s
+APP/EEPROM.s: APP/EEPROM.c.s
+.PHONY : APP/EEPROM.s
 
 # target to generate assembly for a file
-APP/FanDrive.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.s
-.PHONY : APP/FanDrive.c.s
+APP/EEPROM.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.s
+.PHONY : APP/EEPROM.c.s
 
-APP/NtcAdc.obj: APP/NtcAdc.c.obj
-.PHONY : APP/NtcAdc.obj
+APP/FlowDrive.obj: APP/FlowDrive.c.obj
+.PHONY : APP/FlowDrive.obj
 
 # target to build an object file
-APP/NtcAdc.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj
-.PHONY : APP/NtcAdc.c.obj
+APP/FlowDrive.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj
+.PHONY : APP/FlowDrive.c.obj
 
-APP/NtcAdc.i: APP/NtcAdc.c.i
-.PHONY : APP/NtcAdc.i
+APP/FlowDrive.i: APP/FlowDrive.c.i
+.PHONY : APP/FlowDrive.i
 
 # target to preprocess a source file
-APP/NtcAdc.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.i
-.PHONY : APP/NtcAdc.c.i
+APP/FlowDrive.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.i
+.PHONY : APP/FlowDrive.c.i
 
-APP/NtcAdc.s: APP/NtcAdc.c.s
-.PHONY : APP/NtcAdc.s
+APP/FlowDrive.s: APP/FlowDrive.c.s
+.PHONY : APP/FlowDrive.s
 
 # target to generate assembly for a file
-APP/NtcAdc.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.s
-.PHONY : APP/NtcAdc.c.s
+APP/FlowDrive.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.s
+.PHONY : APP/FlowDrive.c.s
 
 APP/RgbLedDrive.obj: APP/RgbLedDrive.c.obj
 .PHONY : APP/RgbLedDrive.obj
@@ -199,6 +199,30 @@ APP/RgbLedDrive.s: APP/RgbLedDrive.c.s
 APP/RgbLedDrive.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.s
 .PHONY : APP/RgbLedDrive.c.s
+
+APP/SmartFan.obj: APP/SmartFan.c.obj
+.PHONY : APP/SmartFan.obj
+
+# target to build an object file
+APP/SmartFan.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
+.PHONY : APP/SmartFan.c.obj
+
+APP/SmartFan.i: APP/SmartFan.c.i
+.PHONY : APP/SmartFan.i
+
+# target to preprocess a source file
+APP/SmartFan.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.i
+.PHONY : APP/SmartFan.c.i
+
+APP/SmartFan.s: APP/SmartFan.c.s
+.PHONY : APP/SmartFan.s
+
+# target to generate assembly for a file
+APP/SmartFan.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.s
+.PHONY : APP/SmartFan.c.s
 
 APP/SysAdcValue.obj: APP/SysAdcValue.c.obj
 .PHONY : APP/SysAdcValue.obj
@@ -319,6 +343,30 @@ Core/Src/gpio.s: Core/Src/gpio.c.s
 Core/Src/gpio.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.s
 .PHONY : Core/Src/gpio.c.s
+
+Core/Src/i2c.obj: Core/Src/i2c.c.obj
+.PHONY : Core/Src/i2c.obj
+
+# target to build an object file
+Core/Src/i2c.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
+.PHONY : Core/Src/i2c.c.obj
+
+Core/Src/i2c.i: Core/Src/i2c.c.i
+.PHONY : Core/Src/i2c.i
+
+# target to preprocess a source file
+Core/Src/i2c.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.i
+.PHONY : Core/Src/i2c.c.i
+
+Core/Src/i2c.s: Core/Src/i2c.c.s
+.PHONY : Core/Src/i2c.s
+
+# target to generate assembly for a file
+Core/Src/i2c.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.s
+.PHONY : Core/Src/i2c.c.s
 
 Core/Src/main.obj: Core/Src/main.c.obj
 .PHONY : Core/Src/main.obj
@@ -760,6 +808,30 @@ Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s
 .PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s
 
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.obj: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.obj
+
+# target to build an object file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
+
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.i: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.i
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.i
+
+# target to preprocess a source file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.i
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.i
+
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.s: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.s
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.s
+
+# target to generate assembly for a file
+Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\build.make CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.s
+.PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.s
+
 Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.obj: Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
 .PHONY : Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.obj
 
@@ -913,15 +985,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 30L_DRIVE_LIFE_RGB_FAN.elf
-	@echo ... APP/FanDrive.obj
-	@echo ... APP/FanDrive.i
-	@echo ... APP/FanDrive.s
-	@echo ... APP/NtcAdc.obj
-	@echo ... APP/NtcAdc.i
-	@echo ... APP/NtcAdc.s
+	@echo ... APP/EEPROM.obj
+	@echo ... APP/EEPROM.i
+	@echo ... APP/EEPROM.s
+	@echo ... APP/FlowDrive.obj
+	@echo ... APP/FlowDrive.i
+	@echo ... APP/FlowDrive.s
 	@echo ... APP/RgbLedDrive.obj
 	@echo ... APP/RgbLedDrive.i
 	@echo ... APP/RgbLedDrive.s
+	@echo ... APP/SmartFan.obj
+	@echo ... APP/SmartFan.i
+	@echo ... APP/SmartFan.s
 	@echo ... APP/SysAdcValue.obj
 	@echo ... APP/SysAdcValue.i
 	@echo ... APP/SysAdcValue.s
@@ -937,6 +1012,9 @@ help:
 	@echo ... Core/Src/gpio.obj
 	@echo ... Core/Src/gpio.i
 	@echo ... Core/Src/gpio.s
+	@echo ... Core/Src/i2c.obj
+	@echo ... Core/Src/i2c.i
+	@echo ... Core/Src/i2c.s
 	@echo ... Core/Src/main.obj
 	@echo ... Core/Src/main.i
 	@echo ... Core/Src/main.s
@@ -992,6 +1070,9 @@ help:
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.obj
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.i
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.s
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.obj
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.i
+	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.s
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.obj
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.i
 	@echo ... Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.s

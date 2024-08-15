@@ -68,33 +68,33 @@ include CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/FanDrive.c
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj"
-	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FanDrive.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FanDrive.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\FanDrive.c
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/EEPROM.c
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\EEPROM.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\EEPROM.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\EEPROM.c
 
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.i"
-	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\FanDrive.c > CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FanDrive.c.i
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.i"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\EEPROM.c > CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\EEPROM.c.i
 
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.s"
-	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\FanDrive.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FanDrive.c.s
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.s"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\EEPROM.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\EEPROM.c.s
 
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/NtcAdc.c
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj"
-	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\NtcAdc.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\NtcAdc.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\NtcAdc.c
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/FlowDrive.c
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FlowDrive.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FlowDrive.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\FlowDrive.c
 
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.i"
-	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\NtcAdc.c > CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\NtcAdc.c.i
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.i"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\FlowDrive.c > CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FlowDrive.c.i
 
-CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.s"
-	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\NtcAdc.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\NtcAdc.c.s
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.s"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\FlowDrive.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\FlowDrive.c.s
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/RgbLedDrive.c
@@ -110,10 +110,24 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.s"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\RgbLedDrive.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\RgbLedDrive.c.s
 
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/SmartFan.c
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\SmartFan.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\SmartFan.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\SmartFan.c
+
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.i"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\SmartFan.c > CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\SmartFan.c.i
+
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.s"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\SmartFan.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\SmartFan.c.s
+
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/SysAdcValue.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\SysAdcValue.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\SysAdcValue.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\SysAdcValue.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.i: cmake_force
@@ -127,7 +141,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/APP/UvcDrive.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\UvcDrive.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\APP\UvcDrive.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\APP\UvcDrive.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.i: cmake_force
@@ -141,7 +155,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/adc.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\adc.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\adc.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\adc.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.i: cmake_force
@@ -155,7 +169,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/dma.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\dma.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\dma.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\dma.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.i: cmake_force
@@ -169,7 +183,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/gpio.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\gpio.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\gpio.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\gpio.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.i: cmake_force
@@ -180,10 +194,24 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.s"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\gpio.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\gpio.c.s
 
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/i2c.c
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\i2c.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\i2c.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\i2c.c
+
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.i"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\i2c.c > CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\i2c.c.i
+
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.s"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\i2c.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\i2c.c.s
+
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/main.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\main.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\main.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\main.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.i: cmake_force
@@ -197,7 +225,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/stm32f1xx_hal_msp.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\stm32f1xx_hal_msp.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\stm32f1xx_hal_msp.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.i: cmake_force
@@ -211,7 +239,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.s: cmake_
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/stm32f1xx_it.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\stm32f1xx_it.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\stm32f1xx_it.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\stm32f1xx_it.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.i: cmake_force
@@ -225,7 +253,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/syscalls.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\syscalls.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\syscalls.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\syscalls.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.i: cmake_force
@@ -239,7 +267,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/syscalls.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/sysmem.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\sysmem.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\sysmem.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\sysmem.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.i: cmake_force
@@ -253,7 +281,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/sysmem.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/system_stm32f1xx.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\system_stm32f1xx.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\system_stm32f1xx.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\system_stm32f1xx.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.i: cmake_force
@@ -267,7 +295,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/system_stm32f1xx.c.s: cmake_f
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/tim.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\tim.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\tim.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\tim.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.i: cmake_force
@@ -281,7 +309,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/tim.c.s: cmake_force
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Src/usart.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\usart.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Src\usart.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Src\usart.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.i: cmake_force
@@ -294,7 +322,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/usart.c.s: cmake_force
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Core/Startup/startup_stm32f103c8tx.s
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building ASM object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building ASM object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(ASM_DEFINES) $(ASM_INCLUDES) $(ASM_FLAGS) -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Core\Startup\startup_stm32f103c8tx.s.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Core\Startup\startup_stm32f103c8tx.s
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.i: cmake_force
@@ -308,7 +336,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Startup/startup_stm32f103c8tx.s.s
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.i: cmake_force
@@ -322,7 +350,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc.c.i: cmake_force
@@ -336,7 +364,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc_ex.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc_ex.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc_ex.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_adc_ex.c.i: cmake_force
@@ -350,7 +378,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_cortex.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.i: cmake_force
@@ -364,7 +392,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.i: cmake_force
@@ -378,7 +406,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_exti.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.i: cmake_force
@@ -392,7 +420,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.i: cmake_force
@@ -406,7 +434,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_flash_ex.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.i: cmake_force
@@ -420,7 +448,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.i: cmake_force
@@ -434,7 +462,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.i: cmake_force
@@ -445,10 +473,24 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.s"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio_ex.c.s
 
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c
+
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.i"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c > CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c.i
+
+CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.s"
+	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c.s
+
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_pwr.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.i: cmake_force
@@ -462,7 +504,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.i: cmake_force
@@ -476,7 +518,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_rcc_ex.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.i: cmake_force
@@ -490,7 +532,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.i: cmake_force
@@ -504,7 +546,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim_ex.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.i: cmake_force
@@ -518,7 +560,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/flags.make
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_36) "Building C object CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj"
 	C:\SysGCC\arm-eabi\bin\arm-none-eabi-gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj -MF CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c.obj.d -o CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c.obj -c E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c
 
 CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.i: cmake_force
@@ -531,14 +573,16 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 
 # Object files for target 30L_DRIVE_LIFE_RGB_FAN.elf
 30L_DRIVE_LIFE_RGB_FAN_elf_OBJECTS = \
-"CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj" \
-"CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj" \
+"CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj" \
+"CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj" \
+"CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj" \
+"CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj" \
@@ -558,6 +602,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj" \
+"CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj" \
 "CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj" \
@@ -568,14 +613,16 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 # External object files for target 30L_DRIVE_LIFE_RGB_FAN.elf
 30L_DRIVE_LIFE_RGB_FAN_elf_EXTERNAL_OBJECTS =
 
-30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FanDrive.c.obj
-30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/NtcAdc.c.obj
+30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/EEPROM.c.obj
+30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/FlowDrive.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/RgbLedDrive.c.obj
+30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SmartFan.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/SysAdcValue.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/APP/UvcDrive.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/adc.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/dma.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/gpio.c.obj
+30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/i2c.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/main.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Core/Src/stm32f1xx_it.c.obj
@@ -595,6 +642,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_i2c.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
@@ -603,7 +651,7 @@ CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/build.make
 30L_DRIVE_LIFE_RGB_FAN.elf: CMakeFiles/30L_DRIVE_LIFE_RGB_FAN.elf.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Linking C executable 30L_DRIVE_LIFE_RGB_FAN.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=E:\STM32\30L_DRIVE_LIFE_RGB_FAN_CLION\30L_DRIVE_LIFE_RGB_FAN\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_37) "Linking C executable 30L_DRIVE_LIFE_RGB_FAN.elf"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\30L_DRIVE_LIFE_RGB_FAN.elf.dir\link.txt --verbose=$(VERBOSE)
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/cmake-build-debug/30L_DRIVE_LIFE_RGB_FAN.hex"
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold "Building E:/STM32/30L_DRIVE_LIFE_RGB_FAN_CLION/30L_DRIVE_LIFE_RGB_FAN/cmake-build-debug/30L_DRIVE_LIFE_RGB_FAN.bin"

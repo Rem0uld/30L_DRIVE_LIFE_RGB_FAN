@@ -4,5 +4,7 @@
 
 #ifndef UVCDRIVE_H
 #define UVCDRIVE_H
-
+void UvcHighDrive();
+void UvcLowDrive();
+void UvcTest();
 #endif //UVCDRIVE_H

@@ -4,5 +4,5 @@
 
 #ifndef NTCADC_H
 #define NTCADC_H
-
+void SmartFan();
 #endif //NTCADC_H
